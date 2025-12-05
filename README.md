@@ -1,7 +1,8 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YifeiDevs/md2steam/blob/main/md2steam_demo.ipynb)
+
 ### Installing
 ```
-%pip install markdown-it-py -q
-%pip install git+https://github.com/YifeiDevs/md2steam.git --force-reinstall
+pip install git+https://github.com/YifeiDevs/md2steam.git
 ```
 
 ### Example
